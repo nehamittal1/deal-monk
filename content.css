@@ -1,0 +1,59 @@
+#body{
+	padding:0;
+	margin:0;
+	
+}
+
+#topright{
+	position:absolute;
+	margin-left:70%;
+	z-index:3;
+	margin-top:30px;
+	
+}
+
+#toprightlinks{
+	margin-left:10px;
+	float:left;
+	
+}
+
+#header_main{
+	
+	width:100%;
+	height:80px;
+	position:absolute;
+	background-color:black;
+	opacity:0.4;
+	border-bottom:1px solid white;
+	z-index:-2;
+	}
+
+#slider{
+	margin-top:0px;
+	z-index:0;
+	
+}
+
+#features{
+
+	margin-top:0;
+	padding-top:-20px;
+	width:100%px;
+	height:550px;
+	border:1px solid red;
+	
+	
+}
+
+#feature_cont{
+	border:1px purple solid;
+	width:40%;
+	height:50%;
+	margin-left:40.2%;
+	margin-top:-17.2%;
+	
+	
+}
+
+
